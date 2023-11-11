@@ -1,7 +1,7 @@
 body{
     color:#949087;
     font-family:sans-serif;
-    background-image:url("background-image-wamodan.jpg");
+    background-image:url("../images/background-image-wamodan.jpg");
     background-size:contain;
 }
 
@@ -145,6 +145,7 @@ article h4{
 
 article ol li{
     counter-increment:list;
+    font-size:1.125rem;
 }
 
 article ol li::before{
